@@ -1,0 +1,7 @@
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/obj/Debug/guesser.csprojAssemblyReference.cache
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/obj/Debug/guesser.csproj.CoreCompileInputs.cache
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/bin/Debug/guesser.exe.config
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/bin/Debug/guesser.exe
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/bin/Debug/guesser.pdb
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/obj/Debug/guesser.exe
+/Users/Frederikke/Desktop/Optek/4 Udvikling af 3D applikationer - 2. semester/GuesserExercise/guesserExercise/guesser/obj/Debug/guesser.pdb
