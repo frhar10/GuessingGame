@@ -12,6 +12,7 @@ namespace guesser
         // a variable with "const" acts also as if it had the "static" modifier, meaning it can be accessed without needing to instantiate an object
         const int MaxTrials = 10;
         public static int Trial = 0;
+        const string Navn = "Marco";
 
         static void Main(string[] args)
         {
@@ -37,9 +38,15 @@ namespace guesser
                         }
                         else
                         {
-                            Console.WriteLine("Nope.");
-                            Trial += 1;
+                            Console.WriteLine("Too little, too late.");
                         }
+
+                        break;
+
+                  
+                    case "Marco":
+
+                        Console.WriteLine("Hurraaaaaaaaayyyy!! You did it! The answer is indeed " + input);
 
                         break;
 
@@ -56,10 +63,9 @@ namespace guesser
                 if (Trial == MaxTrials)
                 {
                     Console.WriteLine("You have used " + Trial + " trials, which is the max. Resistance is useless.");
-
+                    Console.WriteLine("Try again. If you want.");
+                    Environment.Exit(0);
                 }
-
-                Console.WriteLine("No more trials. Try again. If you want.");
 
             }
         }
