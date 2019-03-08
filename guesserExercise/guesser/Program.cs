@@ -37,36 +37,15 @@ namespace guesser
                         }
                         else
                         {
-                            Console.WriteLine("Nope, invalid game!");
+                            Console.WriteLine("Nope.");
+                            Trial += 1;
                         }
 
                         break;
 
-                    /*
-                case "add":
-                    Console.WriteLine("Tilføj spil");
-
-                    Console.WriteLine("Game name: ");
-                    string name = Console.ReadLine();
-
-                    Console.WriteLine("Game price: ");
-                    string price = Console.ReadLine();
-                    float pr = float.Parse(price);
-
-                    Console.WriteLine("Game description: ");
-                    string description = Console.ReadLine();
-
-                    Console.WriteLine("Game genre: ");
-                    string genre = Console.ReadLine();
-
-                    Game game = new Game(genre, name, pr, description);
-                    store.AddGame(game);
-
-                    break;
-
-                case "quit":
-                    return;
-                    */
+                    case "quit":
+                        return;
+                    
                     default:
                         Console.WriteLine("You are not making any sense...");
                         break;
